@@ -1,7 +1,7 @@
-| Core Option | Description |
-| --- | --- |
+| Core Option         | Description |
+| ------------------- | --- |
 | 4-way joystick emulation on 8-way joysticks | `mame2003-plus_four_way_emulation` = "enabled\|disabled" |
-| Mouse Device	Set mouse device input to be read either from a mouse, a pointer (pointer, trackpad, touchscreen), or to be disabled. `mame2003-plus_mouse_device` = "mouse\|pointer\|disabled" |
+| Mouse Device | Set mouse device input to be read either from a mouse, a pointer (pointer, trackpad, touchscreen), or to be disabled. `mame2003-plus_mouse_device` = "mouse\|pointer\|disabled" |
 | Show Lightgun crosshair | Toggle crosshair visibilty for lightgun games. `mame2003-plus_crosshair_enabled` = "enabled\|disabled" |
 | Skip Disclaimer | Skip the copyright disclaimer message. `mame2003-plus_skip_disclaimer` = "disabled\|enabled" |
 | Skip Warnings | Advanced feature: changing from the default is not recommended in most cases. Skip any driver warnings about emulation quality. `mame2003-plus_skip_warnings` = "disabled\|enabled" |
