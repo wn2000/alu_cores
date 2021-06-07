@@ -15,6 +15,8 @@
 
 FBNeo puts game-dependent dipswitches and cheats into core options. The following is an example for the game `ddragon2`:  
 
+| Core Option | Description |
+| ---- | ---- |
 | fbneo-dipswitch-ddragon2-Coin\_A | [Dipswitch] Coin A; 1 Coin  1 Play\|4 Coins 1 Play\|3 Coins 1 Play\|2 Coins 1 Play\|1 Coin  2 Plays\|1 Coin  3 Plays\|1 Coin  4 Plays\|1 Coin  5 Plays |
 | fbneo-dipswitch-ddragon2-Coin\_B | [Dipswitch] Coin B; 1 Coin  1 Play\|4 Coins 1 Play\|3 Coins 1 Play\|2 Coins 1 Play\|1 Coin  2 Plays\|1 Coin  3 Plays\|1 Coin  4 Plays\|1 Coin  5 Plays |
 | fbneo-dipswitch-ddragon2-Cabinet | [Dipswitch] Cabinet; Upright\|Cocktail |
